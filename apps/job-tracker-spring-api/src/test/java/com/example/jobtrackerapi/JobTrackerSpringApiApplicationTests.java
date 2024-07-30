@@ -1,4 +1,4 @@
-package com.example.job_tracker_spring_api;
+package com.example.jobtrackerapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

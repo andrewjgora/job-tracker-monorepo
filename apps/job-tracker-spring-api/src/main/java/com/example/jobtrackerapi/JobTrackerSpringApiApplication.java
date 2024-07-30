@@ -1,4 +1,4 @@
-package com.example.job_tracker_spring_api;
+package com.example.jobtrackerapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
