@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "./"
+		},
+		{
+			"path": "./apps/job-tracker"
+		},
+		{
+			"path": "./apps/JobTrackerApi"
+		},
+	]
+}
