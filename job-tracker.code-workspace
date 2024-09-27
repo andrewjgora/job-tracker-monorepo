@@ -6,5 +6,8 @@
 		{
 			"path": "./apps/"
 		},
-	]
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
 }
