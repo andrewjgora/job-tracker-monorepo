@@ -56,6 +56,16 @@
         }
       }
     },
+    "job-tracker-spring-api:build": {
+      "cache": true,
+      "inputs": [
+        "default",
+        "^default"
+      ],
+      "outputs": [
+        "{projectRoot}/target"
+      ]
+    },
     "e2e-ci--**/*": {
       "dependsOn": [
         "^build"
